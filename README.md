@@ -1,5 +1,5 @@
 # CSVReaderTestTask
 
-![Uploading launch1.png…]()
-![Uploading launch2.png…]()
-![Uploading launch3.png…]()
+![alt text](https://skrinshoter.ru/s/180625/BBnOfuia?a)
+![alt text](https://skrinshoter.ru/s/180625/WEk0UxoJ?a)
+![alt text](https://skrinshoter.ru/s/180625/KCbivwod?a)
