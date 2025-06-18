@@ -86,12 +86,12 @@ where_dict = {
 # Конец where
 
 # Начало order-by
-def order_by_asc(unsorted: list, column: str):
+def order_by_asc(unsorted: list, column: str) -> list:
     data = sorted(unsorted, key=lambda d: d[column])
     return data
 
 
-def order_by_desc(unsorted: list, column: str):
+def order_by_desc(unsorted: list, column: str) -> list:
     data = sorted(unsorted, key=lambda d: d[column], reverse=True)
     return data
 
